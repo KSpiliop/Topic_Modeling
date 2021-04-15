@@ -1,0 +1,9 @@
+ - conda-forge
+dependencies:
+  - r-base=3.6
+  - r-tm
+  - r-textmineR
+  - r-tidytext
+  - r-dplyr
+  - r-tidyr
+ 
